@@ -1,0 +1,45 @@
+@relation dataset
+
+@attribute 'Type of animal ' {dog}
+@attribute fever {yes,no}
+@attribute rashes {no,high}
+@attribute 'low energy' {no,yes}
+@attribute 'weight loss' {no,yes}
+@attribute dehydration {no,yes}
+@attribute paralysis {yes,no}
+@attribute vomitnigs {yes,no}
+@attribute coughing {yes,no}
+@attribute pain {no,yes}
+@attribute 'signs of yellow fever' {no,yes}
+@attribute 'runny eyes' {yes,no}
+@attribute Disease {'canine distemper','canine parvovirus',heartworm,rabies,'lyme disease','kennel cough',leptospirosis,'kidney disease'}
+
+@data
+dog,yes,no,no,no,no,yes,yes,yes,no,no,yes,'canine distemper'
+dog,yes,no,yes,yes,yes,no,yes,no,no,no,no,'canine parvovirus'
+dog,no,no,yes,yes,yes,no,no,yes,no,no,no,heartworm
+dog,yes,high,no,no,no,no,no,no,yes,no,no,rabies
+dog,yes,no,yes,no,no,no,no,no,yes,no,no,'lyme disease'
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,'kennel cough'
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,'kennel cough'
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,'kennel cough'
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,'kennel cough'
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,'kennel cough'
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,no,yes,no,no,yes,no,no,no,no,'kidney disease'
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,'kidney disease'
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,'kidney disease'
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,'kidney disease'

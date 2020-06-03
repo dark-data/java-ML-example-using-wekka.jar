@@ -1,0 +1,21 @@
+Type of animal ,fever,rashes,low energy,weight loss,dehydration,paralysis,vomitnigs,coughing,pain,signs of yellow fever,runny eyes,Disease
+dog,yes,no,no,no,no,yes,yes,yes,no,no,yes,canine distemper
+dog,yes,no,yes,yes,yes,no,yes,no,no,no,no,canine parvovirus
+dog,no,no,yes,yes,yes,no,no,yes,no,no,no,heartworm
+dog,yes,high,no,no,no,no,no,no,yes,no,no,rabies
+dog,yes,no,yes,no,no,no,no,no,yes,no,no,lyme disease
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,kennel cough
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,kidney disease
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,kennel cough
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,kidney disease
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,kennel cough
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,kidney disease
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,kennel cough
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,kidney disease
+dog,no,no,yes,yes,no,no,no,yes,no,no,no,kennel cough
+dog,yes,no,yes,no,yes,no,yes,no,no,yes,no,leptospirosis
+dog,no,no,no,yes,no,no,yes,no,no,no,no,kidney disease
